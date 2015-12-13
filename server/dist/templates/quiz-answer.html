@@ -1,0 +1,15 @@
+<ion-modal-view>
+  <ion-header-bar>
+    <h1 class="title">Answer</h1>
+    <div class="buttons">
+      <button class="button button-clear" ng-click="closeModal()">Close</button>
+    </div>
+  </ion-header-bar>
+  <ion-content>
+    <img ng-src="{{answer.imageUrl}}">
+    <h4>{{answer.description}}</h4>
+    <label class="item">
+      <button class="button button-block button-positive" ng-click="closeModal()">Got it!</button>
+    </label>
+  </ion-content>
+</ion-modal-view>

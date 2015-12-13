@@ -1,0 +1,13 @@
+<ion-view view-title="Quiz: {{quiz.title}}">
+  <ion-content>
+  	<img style="margin: 0 auto;" ng-src="{{quiz.imageUrl}}">
+    <h2>{{quiz.description}}</h2>
+    <hr>
+    <h3>{{currentQuestion.question}}</h3>
+    <ion-list>
+    	<ion-item ng-repeat="answer in currentQuestion.answers" ng-click="nextQuestion(answer.id)">
+    		{{answer.answer}}
+    	</ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
