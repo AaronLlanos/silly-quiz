@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/silly-quiz/Plugins/cordova-plugin-device/CDVDevice.m \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/CDV.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/CDVAvailabilityDeprecated.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/CDVViewController.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/CDVDebug.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/CDVTimer.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/build/emulator/include/Cordova/CDVJSON.h \
+  /Users/aaron1/Documents/github/silly-quiz/platforms/ios/silly-quiz/Plugins/cordova-plugin-device/CDVDevice.h
